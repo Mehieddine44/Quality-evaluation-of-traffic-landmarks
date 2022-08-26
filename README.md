@@ -5,6 +5,8 @@ To obtain the binary mask you can use one of the segmentation models found in th
 the model can be found here :
 https://drive.google.com/file/d/1vR6K2DPS_VIC_sRB_6jwVJxdaPnLwBPD/view?usp=sharing
 
+All you need to do is to replace the paths in the notebook and run it.
+
 The output will be an evaluation of the quality of deterioration of the landmarks shown in an image.
 
 
